@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_server_proxy).
+-vsn("2.1.0").
 
 -behavior(gen_server).
 

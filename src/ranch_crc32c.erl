@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_crc32c).
+-vsn("2.1.0").
 
 -export([crc32c/1]).
 -export([crc32c/2]).

@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_acceptor).
+-vsn("2.1.0").
 
 -export([start_link/5]).
 -export([init/4]).

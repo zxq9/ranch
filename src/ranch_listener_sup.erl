@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_listener_sup).
+-vsn("2.1.0").
 -behaviour(supervisor).
 
 -export([start_link/5]).

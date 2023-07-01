@@ -14,6 +14,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_transport).
+-vsn("2.1.0").
 
 -export([sendfile/6]).
 

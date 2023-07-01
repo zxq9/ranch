@@ -14,6 +14,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_tcp).
+-vsn("2.1.0").
 -behaviour(ranch_transport).
 
 -export([name/0]).

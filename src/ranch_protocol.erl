@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_protocol).
+-vsn("2.1.0").
 
 %% Start a new connection process for the given socket.
 -callback start_link(

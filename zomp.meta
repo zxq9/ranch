@@ -1,0 +1,17 @@
+{a_email,"essen@ninenines.eu"}.
+{author,"Loic Hoguin"}.
+{c_email,"essen@ninenines.eu"}.
+{copyright,"Loic Hoguin"}.
+{deps,[]}.
+{desc,"Ranch is a socket acceptor pool for TCP protocols."}.
+{file_exts,[]}.
+{key_name,none}.
+{license,skip}.
+{modules,[]}.
+{name,"Ranch"}.
+{package_id,{"otpr","ranch",{2,1,0}}}.
+{prefix,"ranch"}.
+{repo_url,"https://github.com/zxq9/ranch"}.
+{tags,["pool","tcp","protocol","network","cowboy"]}.
+{type,app}.
+{ws_url,"https://ninenines.eu/docs/en/ranch/2.1/guide"}.

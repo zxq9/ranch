@@ -15,6 +15,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch).
+-vsn("2.1.0").
 
 -export([start_listener/5]).
 -export([normalize_opts/1]).

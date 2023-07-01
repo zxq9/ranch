@@ -17,6 +17,7 @@
 %% as calling l(ranch_conns_sup) twice will kill the process and all
 %% the currently open connections.
 -module(ranch_conns_sup).
+-vsn("2.1.0").
 
 %% API.
 -export([start_link/6]).

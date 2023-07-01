@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_conns_sup_sup).
+-vsn("2.1.0").
 
 -behaviour(supervisor).
 

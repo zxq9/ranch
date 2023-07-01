@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(ranch_proxy_header).
+-vsn("2.1.0").
 
 -export([parse/1]).
 -export([header/1]).
